@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0299DE</color>
+    <color name="colorPrimaryDark">#006bac</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="primary">#0299DE</color>
+
+    <color name="hitam">#333333</color>
+    <color name="putih">#ffffff</color>
+    <color name="hijau">#61ac7f</color>
+    <color name="second">#c2185b</color>
+    <color name="abu">#dfdfdf</color>
+    <color name="orange">#ff9f43</color>
+
+    <color name="red">#EA4335</color>
+    <color name="yellow">#FBBC05</color>
+    <color name="green">#34A153</color>
+    <color name="blue">#42B5F4</color>
+
+    <color name="hitamtransparant">#5e0e0e0e</color>
+    <color name="transparant">#00ffffff</color>
+    <color name="dropdown">#ffffff</color>
+    <color name="trans">#00000000</color>
+    <color name="hoho">#333333</color>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/rowpenjelasan"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp">
+
+        <TextView
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:textSize="15dp"
+            android:background="@drawable/titik"
+            android:layout_gravity="center"
+            />
+
+        <TextView
+            android:id="@+id/isideskripsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="left"
+            android:textSize="15dp"
+            android:textColor="@color/hitam"/>
+
+    </LinearLayout>
+
+</LinearLayout>
